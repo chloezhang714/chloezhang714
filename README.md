@@ -3,9 +3,9 @@
 
 - 📖 I am currently a senior at **Colby College**
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Systems Biology and Spring**
 
-- 💬 Ask me about **Java, Spring, or movies**
+- 💬 Ask me about **Java, Python, Flask, movies, or books**
 
 - 📫 How to reach me **yuzhan22@colby.edu**
 
